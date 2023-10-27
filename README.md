@@ -23,9 +23,6 @@
 <p align="center">
 
 <h3 align="center">Programming Languages</h3>
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-</p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
