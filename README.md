@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loick Adjiwanou</h1>
 <h3 align="center">I'm from Benin</h3>
 <p style="margin: 15px 0;" align="center";>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Web+designer;Game+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI Lover">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning, React Native, Django**
