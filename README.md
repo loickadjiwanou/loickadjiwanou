@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm geekychris17</h1>
 <h3 align="center">I'm from Benin</h3>
 <p style="margin: 15px 0;" align="center";>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI+Lover">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning, React Native, Django**
@@ -73,7 +73,8 @@
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" /></a>
     <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="XML" width="50" height="50" /></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="50" height="50" /></a>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <i class="devicon-c-plain"></i> </a>          
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50" /></a>
 </p>
 
