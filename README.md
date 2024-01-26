@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm geekychris17</h1>
+<h1 align="center">Hi 👋, I'm Loick</h1>
 <h3 align="center">I'm from Benin</h3>
 <p style="margin: 15px 0;" align="center";>
   <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI+Lover">
