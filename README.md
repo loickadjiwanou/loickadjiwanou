@@ -4,17 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI+Lover">
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, React Native, Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Backend, Mobile & AI projects**
 
-- 💬 Ask me about **Python, Node.js, Php, MongoDB...**
+- 💬 Ask me about **Python, Node.js, Php, MongoDB, React Native, Expo...**
 
 - 📫 How to reach me **loickadjiwanou1111@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/GeekyChris17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waris_aremou03" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/loick-adjiwanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/waris-akinocho" height="30" width="40" /></a>
 
 
@@ -49,8 +48,9 @@
 
 <h3 align="center">Mobile</h3>
 <p align="center">
-   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50" /></a>
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="50" height="50" /></a>
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50" /></a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" width="50" height="50" /></a>
 </p>
 
 
@@ -90,6 +90,7 @@
 <p align="center">
    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="50" height="50" /></a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50" /></a>
+  <a href="https://www.apple.com/fr/macos/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="MacOS" width="50" height="50" /></a>
 </p>
 
 
