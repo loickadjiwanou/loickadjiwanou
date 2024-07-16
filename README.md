@@ -40,7 +40,6 @@
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50" /></a>
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="50" height="50" /></a>
    <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="50" height="50" /></a>
    <a href="https://parseplatform.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="Parse Server" width="50" height="50" /></a>
 </p>
