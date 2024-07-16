@@ -94,4 +94,4 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekychris17&theme=dark&show_icons=true&locale=en&layout=compact" alt="geekychris17" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diiix7&theme=dark&show_icons=true&locale=en&layout=compact" alt="diiix7" /></p>
