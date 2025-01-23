@@ -89,4 +89,6 @@
    <a href="https://www.apple.com/fr/macos/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="MacOS" width="50" height="50" /></a>
 </p>
 
+<br>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diiix7&theme=dark&show_icons=true&locale=en&layout=compact" alt="diiix7" /></p>
