@@ -1,94 +1,57 @@
-<h1 align="center">Hi 👋, I'm Loick</h1>
-<br>
-<h3 align="center">I'm from Benin</h3>
-<br>
-<p style="margin: 15px 0;" align="center";>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Backend+developer;Mobile+developer;Database+manager;Web+designer;AI+Lover">
-</p>
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Loick!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Loick!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
 
-- 🌱 I’m currently learning **Machine Learning**
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-- 👯 I’m looking to collaborate on **Backend, Mobile & AI projects**
+## 💫 About Me:
 
-- 💬 Ask me about **React Native, Expo, Node.js, MongoDB, Express...**
+- 🔭 I’m currently working as a **Mobile Engineer (React Native & Android).**
+- 🌱 I’m currently learning **Backend development & Machine Learning.**
+- 💬 Ask me about **React Native, Android, APIs, MQTT & Tech Stuff.**
+- 📫 How to reach me **Check my Social links below.**
+- ⚡ Fun fact **Coding under pressure makes me faster!**
 
-- 📫 How to reach me **loick.adj@gmail.com**
+## 🌐 Socials:
 
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/loick-adjiwanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loick-adjiwanou" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/loick-adjiwanou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://twitter.com/loick_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="mailto:loick.adjiwanou@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://github.com/loickadji" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  /></a>
+</div>
 
-<!-- Technos -->
-<br>
-<h1 align="center">Languages and Tools 🛠</h1>
-<p align="center">
+## 💻 Tech Stack:
 
-<br>
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50" /></a>
-</p>
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,androidstudio,kotlin,nodejs,express,firebase,mongodb,postgres,docker,git,github,gitlab,linux,macos&theme=dark" />
+  </a> 
+</div>
 
-<br>
-<h3 align="center">Frontend</h3>
-<p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> </a>
-</p>
+## 📊 GitHub Stats:
 
-<br>
-<h3 align="center">Backend</h3>
-<p align="center">
-   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50" /></a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" /></a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> </a>
-   <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="50" height="50" /></a>
-   <a href="https://parseplatform.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="Parse Server" width="50" height="50" /></a>
-   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="Supabase" width="50" height="50" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loickadji&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickadji&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
+</div>
 
-<br>
-<h3 align="center">Mobile</h3>
-<p align="center">
-   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="50" height="50" /></a>
-   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50" /></a>
-   <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" width="50" height="50" /></a>
-   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="50" height="50" /></a>
-</p>
+---
 
-<br>
-<h3 align="center">Databases</h3>
-<p align="center">
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50" /></a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50" /></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" /></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=loickadji&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<br>
-<h3 align="center">Others</h3>
-<p align="center">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" /></a>
-    <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="XML" width="50" height="50" /></a>
-</p>
+<div align="center">
+  Show some ❤️ by starring some of the repositories!
+</div>
 
-<br>
-<h3 align="center">Code Management</h3>
-<p align="center">
-   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50" /></a>
-   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50" /></a>
-</p>
-
-<br>
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50" /></a>
-   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="50" height="50" /></a>
-   <a href="https://www.apple.com/fr/macos/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="MacOS" width="50" height="50" /></a>
-</p>
-
-<br>
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diiix7&theme=dark&show_icons=true&locale=en&layout=compact" alt="diiix7" /></p>
+<div align="center">
+  <a href="https://github.com/loickadji?tab=repositories" title="Show Repositories">... See More</a>
+</div>
