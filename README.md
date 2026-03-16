@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+cross-platform+mobile+experiences+%F0%9F%93%B1;React+Native+%7C+Android+%7C+iOS+%7C+Node.js;Turning+pressure+into+performance+%E2%9A%A1)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+cross-platform+mobile+experiences+%F0%9F%93%B1;React+Native+%7C+Android+%7C+iOS+%7C+Node.js;IoT+%26+Systems+Integration+Engineer+%F0%9F%94%8C;Turning+pressure+into+performance+%E2%9A%A1)
 
 <br/>
 
@@ -23,9 +23,10 @@
 > whether it's bridging native modules, fine-tuning animations, or shipping IoT-connected apps via MQTT.
 
 - 🔭 Currently building production apps with **React Native, Android & Swift**
+- 🔌 Working on **IoT solutions & systems integration** with MQTT and embedded protocols
 - 🌱 Expanding into **Backend development** and **Machine Learning**
 - ⚡ Fun fact — *Coding under pressure makes me faster*
-- 💬 Ask me about **Expo · Native Modules · MQTT · APIs · IoT**
+- 💬 Ask me about **Expo · Native Modules · MQTT · IoT · Systems Integration · APIs**
 
 ---
 
@@ -48,10 +49,11 @@
 
 ---
 
-## 🎯 Currently focused on
+## 🚀 What I'm working on
 ```text
 📱 Cross-platform mobile engineering    ████████████████████  100%
 🔧 Native Modules & Bridging            ██████████████████░░   90%
+🔌 IoT & Systems Integration            ███████████████░░░░░   75%
 🌱 Backend / Node.js                    ████████████░░░░░░░░   60%
 🤖 Machine Learning                     ██████░░░░░░░░░░░░░░   30%
 ```
