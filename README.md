@@ -63,7 +63,7 @@
 ## 🗂️ Languages used on GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickadjiwanou&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickadjiwanou&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css" />
 </div>
 
 ---
