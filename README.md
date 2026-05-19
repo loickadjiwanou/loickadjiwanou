@@ -51,7 +51,7 @@
 
 ## 🚀 What I'm working on
 ```text
-📱 Cross-platform mobile engineering    ████████████████████  100%
+📱 Cross-platform mobile engineering    ███████████████████░   95%
 🔧 Native Modules & Bridging            ██████████████████░░   90%
 🔌 IoT & Systems Integration            ███████████████░░░░░   75%
 🌱 Backend / Node.js                    ████████████░░░░░░░░   60%
